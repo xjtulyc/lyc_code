@@ -14,7 +14,7 @@ For our big assignment in natural Language processing, I chose the topic audio i
 
 This image shows the concrete realization of each module of the project.A variety of programming languages, cutting-edge frameworks, which reflects my programming ability and teamwork ability.The image on the right shows the output.
 <img src="img/audio_img_generation.png">
-<img src="img/audio_img_generation_result.png">
+<img src="img/audio_img_generation_result.png" width="50%">
 ## Self-introduction
 
 My university, Xi 'an Jiaotong University, is located in Xi 'an, a city full of history and culture.Xi 'an Jiaotong University is one of the top 10 engineering universities in China.
