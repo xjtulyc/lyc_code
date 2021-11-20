@@ -1,6 +1,6 @@
 # Hi, this is Youcheng Li's code repository :)
 
-Here are some of my projects, including text classification, pedestrian recognition based on SVM and audio image generation.
+Here are some of my projects, including text classification, pedestrian recognition based on SVM and audio image generation. Besides, I uploaded other assignment in CV, NLP and Machine Learning.
 
 ## Text Classification
 I have implemented a news text classification algorithm.The raw data came from a Chinese news website, obtained by crawlers.First, I preprocess the text, removing HTML tags.After that, I use TF-IDF feature and word bag feature to achieve text representation.Finally, I used XGBoost and Naive Bayes classifier for classification.The text classification results are shown above in this image.
