@@ -13,8 +13,8 @@ I used to implement pedestrian detection based on HOG feature.I use support vect
 For our big assignment in natural Language processing, I chose the topic audio image generation.This project allows you to speak a sentence in Chinese and output the scene corresponding to the sentence.In this project, I was responsible for determining the technical route, implementing the machine translation module and image generation module.Below is the framework of the project.
 
 This image shows the concrete realization of each module of the project.A variety of programming languages, cutting-edge frameworks, which reflects my programming ability and teamwork ability.The image on the right shows the output.
-<img src="img/audio_image_generation.png">
-<img src="img/audio_image_generation_result.png">
+<img src="img/audio_img_generation.png">
+<img src="img/audio_img_generation_result.png">
 ## Self-introduction
 
 My university, Xi 'an Jiaotong University, is located in Xi 'an, a city full of history and culture.Xi 'an Jiaotong University is one of the top 10 engineering universities in China.
