@@ -1,0 +1,10 @@
+﻿  nlp.cpp
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(55,30): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(55,21): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(58,40): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(58,31): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(59,73): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(59,64): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(59,59): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\NLP大作业\end_menu.h(59,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  NLP大作业.vcxproj -> D:\C_Complie\Project\0_作业\4_自然语言处理\NLP大作业\Debug\NLP大作业.exe
